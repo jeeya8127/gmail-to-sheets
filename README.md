@@ -34,12 +34,13 @@ This project automates the process of fetching unread emails from Gmail and logg
 - .gitignore: Files and folders to be ignored by Git for security.
 
 ## 🎥 Demo & Proof
-- Demo Video: (https://www.loom.com/share/1e069edd035948c5a616a83e72bb3026)
+- Demo Video:[(https://www.loom.com/share/1e069edd035948c5a616a83e72bb3026)]
 - Screenshots: Can be found in the /inside/proof/ directory of this repository.
 
 ## 🚀 How to Run
 1. Install dependencies: pip install -r requirements.txt
 2. Place your credentials.json in the credentials/ folder.
 3. Run the script: python src/main.py
+
 
 
