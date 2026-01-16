@@ -1,0 +1,12 @@
+credentials/credentials.json
+token.json
+token.pickle
+token_sheets.pickle
+processed_ids.txt
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.DS_Store
+Thumbs.db
